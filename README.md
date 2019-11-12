@@ -25,4 +25,4 @@
       https://app.terraform.io/api/v2/vars
     
     ```
-- after successful execution your map variable should ve created in TFC worspace
+- after successful execution your map variable should be created in TFC workspace
