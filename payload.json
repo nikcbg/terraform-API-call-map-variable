@@ -1,0 +1,21 @@
+{
+    "data": {
+      "type":"vars",
+      "attributes": {
+        "key":"amis",
+        "value":"{\nus-east-1= \"ami-04b9e92b5572fa0d1\"\nus-east-2=\"ami-0d5d9d301c853a04a\"\n}",
+        "category":"terraform",
+        "hcl":true,
+        "sensitive":false
+      },
+      "relationships": {
+        "workspace": {
+          "data": {
+            "id":"ws-abc123",
+            "type":"workspaces"
+          }
+        }
+      }
+    }
+  }
+
