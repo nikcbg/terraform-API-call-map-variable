@@ -1,0 +1,21 @@
+
+    {
+        "data": {
+          "type":"vars",
+          "attributes": {
+            "key":"project_config",
+            "value":"\"pp-devcos-rinanda\" = {\n\t\tvm_name = \"testing\"\n\t\tmachine_type = \"n1-standard-1\"\n\t\tzone = \"us-central1-a\"\n\t\timage_project = \"debian-cloud\"\n\t\tsubnet_name = \"kube-101\"\n\t\tosimages = \"debian-10-buster-v20191014\"\n\t\tproject_id = \"pp-devcos-rinanda\"\n\t}",
+            "category":"terraform",
+            "hcl":true,
+            "sensitive":false
+          },
+          "relationships": {
+            "workspace": {
+              "data": {
+                "id":"ws-tVwtaToQb1xBwtsZ",
+                "type":"workspaces"
+              }
+            }
+          }
+        }
+      }
